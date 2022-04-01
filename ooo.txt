@@ -1,5 +1,11 @@
 mmmmmmmmmmmm
 
+<<<<<<< HEAD
 aaaaaaaaaaaaa
 
 eeeeeeeeeeeeeee
+=======
+lllllllllllllll
+>>>>>>> tufo
+
+
